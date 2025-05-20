@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #8fbc8f; /* Verde suave */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #333;
+}
+
+.autor, .origem {
+    font-style: italic;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+a {
+    display: inline-block;
+    background-color: #556b2f; /* Verde musgo */
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+a:hover {
+    background-color: #6b8e23; /* Verde oliva */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ddd;
+    color: #555;
+    font-size: 0.9em;
+}
+
+/* Estilos adicionais podem ser adicionados aqui para refinar o layout */
